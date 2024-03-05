@@ -15,6 +15,8 @@ layout:
 
 # Overview
 
-#### Social
+#### Socials
 
-[LinkedIn](http://www.linkedin.com/in/jadin-natividad)
+[linkedin/Jadin-Natividad](https://www.linkedin/in/jadin-natividad/)
+
+[hackthebox/Jadin0](https://app.hackthebox.com/profile/1333812)
