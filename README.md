@@ -15,7 +15,18 @@ layout:
 
 # Overview
 
-#### Socials
+### Certifications
+
+* AXELOS ITIL Foundation v4 Service Management
+* CompTIA A+
+* CompTIA Security+
+* Fortinet NSE (Network Security Expert) 1
+* Fortinet NSE (Network Security Expert) 2
+* Fortinet NSE (Network Security Expert) 3
+* TCM PJPT (Practical Junior Penetration Tester)
+* TCM PEH (Practical Ethical Hacking)
+
+### Social
 
 [Linkedin / Jadin0](https://www.linkedin.com/in/jadin-natividad/)
 
