@@ -15,6 +15,10 @@ layout:
 
 # Overview
 
+### About Me
+
+
+
 ### Certifications
 
 * AXELOS ITIL Foundation v4 Service Management
@@ -31,3 +35,7 @@ layout:
 [Linkedin / Jadin0](https://www.linkedin.com/in/jadin-natividad/)
 
 [HackTheBox / Jadin0](https://app.hackthebox.com/profile/overview)
+
+[GitHub / Jadin0](https://github.com/Jadin0)
+
+Discord / Jadin0#7308
