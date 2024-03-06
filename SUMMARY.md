@@ -5,6 +5,7 @@
   * [Lame](labs/lame.md)
   * [Legacy](labs/legacy.md)
   * [Devel](labs/devel.md)
+  * [Popcorn](labs/popcorn.md)
   * [Jerry](labs/jerry.md)
   * [Netmon](labs/netmon.md)
   * [Blue](labs/blue.md)
