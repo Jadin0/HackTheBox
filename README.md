@@ -17,7 +17,7 @@ layout:
 
 ### About Me
 
-
+My background in Cyber security comes from experience at an MSSP (Managed Security Service Provider) and the U.S.A.F. Cyber Defense Ops.
 
 ### Certifications
 
@@ -32,10 +32,10 @@ layout:
 
 ### Social
 
-[Linkedin / Jadin0](https://www.linkedin.com/in/jadin-natividad/)
+[Linkedin](https://www.linkedin.com/in/jadin-natividad/)
 
-[HackTheBox / Jadin0](https://app.hackthebox.com/profile/overview)
+[HackTheBox](https://app.hackthebox.com/profile/overview)
 
-[GitHub / Jadin0](https://github.com/Jadin0)
+[GitHub](https://github.com/Jadin0)
 
-Discord / Jadin0#7308
+[Discord](https://discordapp.com/users/280206258991136768)
