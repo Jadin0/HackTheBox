@@ -1,5 +1,5 @@
 ---
-description: Public documentation repository, by Jadin Natividad
+description: Public documentation repository, by Jadin0
 layout:
   title:
     visible: true
@@ -15,9 +15,15 @@ layout:
 
 # Overview
 
+{% hint style="danger" %}
+This documentation is for educational purposes only. I am not liable for any misuse of the provided information.
+{% endhint %}
+
+
+
 ### About Me
 
-My background in Cyber security comes from experience at an MSSP (Managed Security Service Provider) and the U.S.A.F. Cyber Defense Ops.
+My background in Cyber Security comes from experience at an MSSP (Managed Security Service Provider) and the U.S.A.F. Cyber Defense Ops.
 
 ### Certifications
 
