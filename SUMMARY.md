@@ -4,7 +4,7 @@
 * [HTB Labs](htb-labs/README.md)
   * [Perfection](htb-labs/perfection.md)
 
-## Cheatsheets
+## CHEATSHEETS
 
 * [Enumeration](cheatsheets/enumeration/README.md)
   * [Nmap](cheatsheets/enumeration/nmap.md)
