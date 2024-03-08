@@ -4,7 +4,7 @@ description: Upgrading shell for more functionality.
 
 # Shell Upgrade
 
-#### Linux
+### Linux
 
 ```bash
 script -qc /bin/bash /dev/null
