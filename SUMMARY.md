@@ -1,8 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [HTB Labs](htb-labs/README.md)
-  * [Perfection](htb-labs/perfection.md)
+* [HTB Labs](htb-labs.md)
 
 ## CHEATSHEETS
 
