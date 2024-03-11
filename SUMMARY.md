@@ -9,3 +9,4 @@
   * [Nmap](cheatsheets/enumeration/nmap.md)
 * [Misc.](cheatsheets/misc./README.md)
   * [Shell Upgrade](cheatsheets/misc./shell-upgrade.md)
+  * [SMB](cheatsheets/misc./smb.md)
