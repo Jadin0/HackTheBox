@@ -1,6 +1,10 @@
+---
+description: Server Message Block
+---
+
 # SMB
 
-SMB (Server Message Block) known as Samba(variant) on UNIX was developed by IBM and modified by Microsoft.
+Known as Samba(variant) on UNIX; was developed by IBM and modified by Microsoft.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
