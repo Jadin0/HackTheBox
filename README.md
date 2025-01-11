@@ -31,6 +31,7 @@ My background in Cyber Security comes from experience at an MSSP (Managed Securi
 
 * AXELOS ITIL Foundation v4 Service Management
 * CompTIA A+
+* CompTIA Network+
 * CompTIA Security+
 * Fortinet NSE (Network Security Expert) 1
 * Fortinet NSE (Network Security Expert) 2
